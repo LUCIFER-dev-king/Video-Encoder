@@ -1,2 +1,2 @@
 # Video-Encoder
-Server less video encryption
+Encrypt a video with HLS-encryption.
